@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Creación de aplicación todo-list
+
+React es una librería de JS que nos permite la utilización de diversos componentes para agilizar el proceso de creación de aplicaciones web.
+
+Para comenzar con este proyecto utilizamos el siguiente comando
+```bash
+npx create-react-app
+```
+El cual crea la primera estructura de react en nuestro proyecto y carga todas sus librerías.
